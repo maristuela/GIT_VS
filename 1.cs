@@ -8,7 +8,9 @@ namespace FirstApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hel;
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
 
         }
     }
